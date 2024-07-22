@@ -1,0 +1,23 @@
+Task 1: Database Schema and SQL Injection Prevention (Team Member A) 
+Responsibilities:
+Design the database schema with the user table.
+Ensure username is the primary key and email is unique.
+Implement SQL injection prevention measures.
+Create SQL scripts for the database setup.
+
+
+Task 2: Backend Implementation (Team Member B)
+Responsibilities:
+Implement the backend logic for user registration and login.
+Ensure the backend interacts correctly with the database.
+Handle data validation, including detecting duplicate usernames and emails, and checking for matching passwords.
+
+
+
+Task 3: Frontend Implementation (Team Member C - Web Engineer)
+HTML
+Responsibilities:
+Develop the user registration and login interface using HTML.
+Create forms for user input (username, password, confirm password, first name, last name, email).
+Implement client-side validation for form inputs.
+Ensure the frontend communicates correctly with the backend for user registration and login.
